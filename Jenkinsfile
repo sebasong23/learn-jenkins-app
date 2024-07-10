@@ -16,6 +16,7 @@ pipeline {
                     node --version
                     npm --version
                     echo "hello"
+                    echo "2nd"
                    /* npm ci
                     npm run build
                     ls -la
